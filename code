@@ -1,5 +1,6 @@
 //Project 10 Servo
-#include <Servo.h> //declare to insert Servo.h libraryServo myservo; \
+#include <Servo.h> //declare to insert Servo.h library
+  Servo myservo; 
   // create servo object to control a servo
   int pos = 0; //variable pos to store position of servo
   void setup() {
